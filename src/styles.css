@@ -20,5 +20,8 @@ body {
 }
 
 .content {
+  max-width: 100%;
   min-height: calc(100vh - 100px);
+  width: 720px;
+  margin: auto;
 }
